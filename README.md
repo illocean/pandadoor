@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pandadoor/gif-terminal/main/output.gif" alt="Terminal GIF" style="max-width: 100%; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/illocean/gif-terminal/main/output.gif" alt="Terminal GIF" style="max-width: 100%; border-radius: 10px;" />
 </div>
 
 <br>

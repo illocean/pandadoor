@@ -1,8 +1,6 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PANDADOOR&fontSize=70&fontColor=8be9fd&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=55&duration=1&pause=1&color=8BE9FD&center=true&vCenter=true&width=600&height=80&lines=PANDADOOR" alt="PANDADOR" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=8BE9FD&center=true&vCenter=true&width=500&lines=DIT+Student+%40+PUP+Taguig;JR+Software+Engineer;Full-stack+developer+in+training" alt="Typing SVG" />
@@ -24,4 +22,10 @@
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,php,laravel,postgres,mysql,git,dotnet,nodejs,visualstudio,vscode&perline=8" alt="Skills" />
   </a>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
 </div>

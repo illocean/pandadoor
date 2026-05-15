@@ -1,23 +1,12 @@
-```text
-
-  _ __   __ _ _ __   ___  __ _ _ __   __ _  ___  ___ 
- | '_ \ / _` | '_ \ / __|/ _` | '_ \ / _` |/ _ \/ __|
- | |_) | (_| | |_) | (__| (_| | | | | (_| |  __/\__ \
- | .__/ \__,_| .__/ \___|\__,_|_| |_|\__, |\___||___/
- | |         | |                      __/ |           
- |_|         |_|                     |___/            
-
-```
+﻿![Terminal GIF](https://raw.githubusercontent.com/pandadoor/gif-terminal/main/output.gif)
 
 <p align="center">
-  <a href="https://github.com/pandadoor"><img src="https://img.shields.io/badge/GitHub-pandadoor-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="mailto:andadorkimphillip@gmail.com"><img src="https://img.shields.io/badge/Email-andadorkimphillip%40gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"></a>
-  <img src="https://img.shields.io/badge/PUP%20Taguig-DIT-800020?style=flat-square&logo=googlemaps" alt="PUP Taguig">
+  <img src="https://img.shields.io/badge/Diploma%20in%20Information%20Technology-PUP%20Taguig-800020?style=flat-square" alt="DIT PUP Taguig">
+  <img src="https://img.shields.io/badge/IT%20Intern-Moreh%20Academy-0078D7?style=flat-square" alt="Moreh Academy">
+  <a href="mailto:andadorkimphillip@gmail.com"><img src="https://img.shields.io/badge/-andadorkimphillip%40gmail.com-gray?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 ---
-
-### Tech Stack
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
@@ -29,7 +18,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![COBOL](https://img.shields.io/badge/-COBOL-003A70?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=flat-square&logo=visualstudio)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 
@@ -60,20 +48,6 @@
 | [marketplace](https://github.com/pandadoor/marketplace) | Spicetify extension and theme marketplace | TypeScript |
 | [Php-mysql-crud](https://github.com/pandadoor/Php-mysql-crud) | Simple PHP and MySQL CRUD implementation | PHP |
 | [AutoClicker](https://github.com/pandadoor/AutoClicker) | Windows auto clicker and macro tool | Tcl |
-
----
-
-### Status
-
-Second-year student, Diploma in Information Technology  
-Polytechnic University of the Philippines - Taguig
-
----
-
-### Experience
-
-**IT Intern** @ Moreh Academy (Nov 2023 - Jan 2024)  
-Software development, technical support, hardware troubleshooting
 
 ---
 

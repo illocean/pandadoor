@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PANDADOOR&fontSize=70&fontColor=8be9fd&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PANDADOOR&fontSize=70&fontColor=8be9fd&animation=twinkling&fontAlignY=38" width="100%" />
 </div>
 
 <br>
@@ -18,25 +18,10 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pandadoor&show_icons=true&hide_border=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadoor&layout=compact&hide_border=true&theme=radical" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### Languages & Frameworks
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,php,laravel,postgres,mysql,git,dotnet,nodejs,visualstudio,vscode&perline=8" alt="Skills" />
   </a>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
 </div>

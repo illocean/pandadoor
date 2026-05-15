@@ -23,6 +23,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,php,laravel,postgres,mysql,dotnet,python&perline=8" alt="Skills" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/COBOL-003A70?style=for-the-badge" alt="COBOL">
 
 </div>
 

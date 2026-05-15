@@ -21,7 +21,7 @@
 ### Languages & Frameworks
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,php,laravel,postgres,mysql,git,dotnet,nodejs,python,visualstudio,vscode&perline=8" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,php,laravel,postgres,mysql,git,dotnet,nodejs,python&perline=8" alt="Skills" />
   </a>
 
 </div>
